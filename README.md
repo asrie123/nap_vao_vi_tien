@@ -1,4 +1,3 @@
-Chào bạn! Đoạn code Soroban Rust của bạn rất sạch sẽ và tuân thủ đúng các quy chuẩn của Stellar Smart Contracts. Dưới đây là nội dung tệp **README.md** được thiết kế chuyên nghiệp, rõ ràng để bạn có thể sử dụng ngay cho dự án của mình.
 
 ---
 
@@ -41,13 +40,8 @@ https://stellar.expert/explorer/testnet/contract/CBPKV7UDUGXJ6GH5HWAGWYQWHVJ3DA7
 ---
 
 ## 👤 Profile
-* **Nickname:** [Tên/Nickname của bạn]
+* **Nickname:** Đoàn Hoàng Long
 * **Kỹ năng:** Rust, Smart Contract Development (Soroban), Blockchain Architecture.
 * **Mục tiêu:** Trở thành một nhà phát triển Fullstack Web3 trên hệ sinh thái Stellar.
 
 ---
-
-### Bạn có muốn mình giúp:
-1.  **Tối ưu thêm code** (ví dụ: thêm sự kiện `Events` để dễ theo dõi lịch sử trên frontend)?
-2.  **Viết script deploy** bằng Soroban CLI không?
-3.  **Thiết kế thêm phần hướng dẫn cài đặt** (Installation Guide) vào README này?
